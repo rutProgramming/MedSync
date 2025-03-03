@@ -81,9 +81,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97250\\Desktop\\rut\\second year\\MedSync\\MedSyncServer\\MedSyncServer\\MedSyncServer.csproj",
-      "projectName": "MedSyncServer",
-      "projectPath": "C:\\Users\\97250\\Desktop\\rut\\second year\\MedSync\\MedSyncServer\\MedSyncServer\\MedSyncServer.csproj",
+      "projectUniqueName": "C:\\Users\\97250\\Desktop\\rut\\second year\\MedSync\\MedSyncServer\\MedSyncServer\\MedSyncServer.Api.csproj",
+      "projectName": "MedSyncServer.Api",
+      "projectPath": "C:\\Users\\97250\\Desktop\\rut\\second year\\MedSync\\MedSyncServer\\MedSyncServer\\MedSyncServer.Api.csproj",
       "packagesPath": "C:\\Users\\97250\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\97250\\Desktop\\rut\\second year\\MedSync\\MedSyncServer\\MedSyncServer\\obj\\",
       "projectStyle": "PackageReference",

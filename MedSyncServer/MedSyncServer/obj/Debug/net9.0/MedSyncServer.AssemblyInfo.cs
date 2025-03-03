@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedSyncServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e100f6e093c2f1812d4d7a7324d19cdf5de5626")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedSyncServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedSyncServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
